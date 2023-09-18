@@ -11,8 +11,9 @@ let pass = true
 // string => ""
 // boolean => true/false
 // null => standalone value (null is typeof object)
-// undefine =>  
+// undefine =>  undefined
 // symbole => unique
 
 
 console.log(typeof null)
+console.log(typeof undefined)
